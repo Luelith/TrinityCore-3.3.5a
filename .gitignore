@@ -1,0 +1,28 @@
+# archivos objeto compilados
+* .slo
+* .lo
+* .o
+* .obj
+
+# encabezados precompilados
+* .gch
+* .pch
+
+# bibliotecas dinámicas Compilado
+*.asi que
+* .dylib
+* .dll
+
+# archivos de módulos Fortran
+* mod
+
+# bibliotecas estáticas Compilado
+* .lai
+*.la
+*.un
+* .lib
+
+# ejecutables
+*.exe
+*.fuera
+* .app
