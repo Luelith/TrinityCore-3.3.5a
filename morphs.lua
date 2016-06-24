@@ -35,7 +35,7 @@ function Morph_Gossip(event, player, unit)
 end
 
 function Morph_Menu(unit, player)                                                          
-player:GossipMenuAddItem(0, "|TInterface/ICONS/inv_potion_107:25|tTransformaciones", 0, 11) -- Puedes Agregar Mas Menus + Funciones.
+player:GossipMenuAddItem(0, "|TInterface/ICONS/inv_potion_107:25|tTransformaciones", 0, 11) -- Puedes Agregar Mas Linea + Funciones.
 player:GossipMenuAddItem(0, "|TInterface/ICONS/Mail_GMIcon:25|tSalir", 0, 12)
 player:GossipSendMenu(1, unit)
 end
